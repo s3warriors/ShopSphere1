@@ -1,4 +1,4 @@
-# myshop
+# ShopSphere
 
 A new Flutter project.
 
